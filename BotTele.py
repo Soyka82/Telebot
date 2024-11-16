@@ -5,8 +5,8 @@ from translate import *
 import json
 
 
-with open(r"/bot_alpa_0_3/data_base.json", "r") as db:
-    contacts = json.load(db)
+# with open(r"/bot_alpa_0_3/data_base.json", "r") as db:
+#     contacts = json.load(db)
 
 
 API = "7284552120:AAFURt9NuH_7f52Tv_dhaHb_bJ2VLtlzf_A"
