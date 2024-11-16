@@ -11,7 +11,7 @@ import json
 
 API = "7284552120:AAFURt9NuH_7f52Tv_dhaHb_bJ2VLtlzf_A"
 translate_lang = Translator(from_lang="Russian", to_lang="English")
-hello_list = ["ОЙ, приветик красавчик😍", "Здарова Дружище"]
+hello_list = ["ОЙ, приветик красотка😍", "Йоу. братуха"]
 bot = telebot.TeleBot(API)
 
 
